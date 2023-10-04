@@ -1,2 +1,2 @@
-# codingame-challenge
+# Codingame Challenge
 Challenges Codingame - Mes solutions
